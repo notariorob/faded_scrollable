@@ -1,7 +1,7 @@
 name: faded_scrollable
 description: "A wrapper for any scrollable widget that will add fade in/out effect on top & bottom respectively whenever there is scrollable content beyond the screen's extent."
-version: 1.0.0
-repository: https://github.com/notarirob/faded_scrollable
+version: 1.0.1
+repository: https://github.com/notariorob/faded_scrollable
 
 environment:
   sdk: ^3.5.1
